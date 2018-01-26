@@ -70,6 +70,9 @@ typedef enum MPU6050_enErrCode
     MPU6050_Success = 0x00U,        /**< Process Success                    */
     MPU6050_TimeOutErr              /**< Timeout error occurred             */
 }MPU6050_tenErrCode;
+
+
+MPU6050_tenErrCode enErrorCode;
 /*********************
 /******************************************************************************
  VARIABLES
