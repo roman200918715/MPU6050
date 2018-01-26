@@ -5,7 +5,7 @@
  *          This is a API to driver of MPU6050.
  *
  * @par Developer:
- *          - Francisco Roman
+ *          - Francisco Roman Hernandez
  * @par Project or Platform:
  *          OPHYRA
  * @par SW-Component:
